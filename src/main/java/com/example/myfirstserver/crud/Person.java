@@ -2,7 +2,7 @@ package com.example.myfirstserver.crud;
 
 public class Person {
 
-    private String id;//ID
+    private String id;
 
     private String firstName;
     private String lastName;
