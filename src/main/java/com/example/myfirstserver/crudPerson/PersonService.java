@@ -1,4 +1,4 @@
-package com.example.myfirstserver.crud;
+package com.example.myfirstserver.crudPerson;
 
 import org.springframework.stereotype.Service;
 
